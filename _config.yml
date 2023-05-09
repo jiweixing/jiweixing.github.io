@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weixing Ji's Homepage"
+title                    : "Weixing JI's Homepage"
 title_separator          : "-"
-name                     : &name "Jianhua Gao"
+name                     : &name "Weixing Ji"
 description              : &description "Professor"
 url                      : https://jiweixing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Weixing Ji（计卫星）"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "A professor at BIT"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=9NfXp9MAAAAJ"
-  email            :
+  email            : "jwx@bit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
