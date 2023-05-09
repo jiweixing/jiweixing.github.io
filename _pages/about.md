@@ -47,3 +47,10 @@ Community Service
 - Deputy secretary-general, The Alliance of Emerging Engineering for Information Education (AEEE)
 - Journal Reviewer, TPDS/Chinese Journal of Computers（计算机学报）/Journal of Software（软件学报）
 - Technical Committee Member, Computer System Development Capability Competition——Compilation System Design
+
+Courses
+======
+- Compilation Principle and Design (Chinese), undergraduate course, 2009-2023
+- Compilation Principle and Design (English), International undergraduate course, 2016-2022
+- Senior Computer Architecture, master course, 2016-2022
+- Software System Analysis and Optimization, doctoral course, 2019-2022
