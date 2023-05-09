@@ -37,3 +37,13 @@ Selected Publication
 1. Akrem Benatia, **Weixing Ji**\*, Yizhuo Wang, Feng Shi. [*BestSF: A Sparse Meta-Format for Optimizing SpMV on GPU*](https://doi.org/10.1145/3226228), ACM Transactions on Architecture and Code Optimization（TACO， **CCF B类**）, vol. 15, no. 3(29), September 2018, pp. 1-27, doi: 10.1145/3226228
 
 1. Akrem Benatia, **Weixing Ji**, Yizhuo Wang, Feng Shi. [*Sparse Matrix Format Selection with Multiclass SVM for SpMV on GPU*](https://ieeexplore.ieee.org/abstract/document/7573853), The 45th International Conference on Parallel Processing (ICPP, CCF B类), Philadelphia, PA, USA, 2016, pp. 496-505, doi: 10.1109/ICPP.2016.64
+
+------
+
+Community Service
+======
+- Executive Committee Member, ACM China SIGOPS/CCF Computer Architecture (CCF TCARCH)
+- Chairman, 22th ACM China SIGOPS
+- Deputy secretary-general, The Alliance of Emerging Engineering for Information Education (AEEE)
+- Journal Reviewer, TPDS/Chinese Journal of Computers（计算机学报）/Journal of Software（软件学报）
+- Technical Committee Member, Computer System Development Capability Competition——Compilation System Design
