@@ -64,13 +64,13 @@ Community Service
 
 Courses
 ======
-- undergraduate courses
+- Undergraduate courses
   - Compilation Principle and Design (Chinese), 2009-2023
   - Compilation Principle and Design (English), 2016-2022
   - Introduction to Computer Systems, 2022
-- master courses
+- Master courses
   - Senior Computer Architecture, 2016-2022
-- doctoral courses
+- Doctoral courses
   - Software System Analysis and Optimization, 2019-2022
-- public courses
+- Public courses
   - [Big data foundation and application](https://www.icourse163.org/course/BIT-1205834821)
