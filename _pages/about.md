@@ -39,7 +39,7 @@ Selected Publication
 
 1. Jianhua Gao, **Weixing Ji**\*, Fangli Chang, Shiyu Han, Bingxin Wei, Zeming Liu, Yizhuo Wang. [*A systematic survey of general sparse matrix-matrix multiplication*](https://doi.org/10.1145/3571157), ACM Computing Surveys（CSUR, **SCI一区**）, Surv. 55, 12, Article 244 (December 2023), 36 pages, doi: 10.1145/3571157
 
-1. Akrem Benatia, **Weixing Ji**, Yizhuo Wang, Feng Shi. [*Sparse Matrix Format Selection with Multiclass SVM for SpMV on GPU*](https://ieeexplore.ieee.org/abstract/document/7573853), The 45th International Conference on Parallel Processing (ICPP, CCF B类), Philadelphia, PA, USA, 2016, pp. 496-505, doi: 10.1109/ICPP.2016.64
+1. Akrem Benatia, **Weixing Ji**, Yizhuo Wang, Feng Shi. [*Sparse Matrix Format Selection with Multiclass SVM for SpMV on GPU*](https://ieeexplore.ieee.org/abstract/document/7573853), The 45th International Conference on Parallel Processing (ICPP), Philadelphia, PA, USA, 2016, pp. 496-505, doi: 10.1109/ICPP.2016.64
 
 ------
 
