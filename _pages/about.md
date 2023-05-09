@@ -30,4 +30,10 @@ Selected Publication
 
 1. Zhaonian Tan, **Weixing Ji**\*, Jianhua Gao. [*MMSparse: 2D partitioning of sparse matrix based on mathematical morphology*](https://doi.org/10.1016/j.future.2020.02.076), Future Generation Computer Systems (FGCS, **SCI一区**), vol. 108, pp.521-532, 2020, doi: 10.1016/j.future.2020.02.076
 
-1. Jianhua Gao, **Weixing Ji**\*, Fangli Chang, Shiyu Han, Bingxin Wei, Zeming Liu, Yizhuo Wang. [*A systematic survey of general sparse matrix-matrix multiplication*](https://doi.org/10.1145/3571157), ACM Computing Surveys（CSUR, **SCI一区**）, Surv. 55, 12, Article 244 (December 2023), 36 pages. doi: 10.1145/3571157
+1. Jianhua Gao, **Weixing Ji**\*, Fangli Chang, Shiyu Han, Bingxin Wei, Zeming Liu, Yizhuo Wang. [*A systematic survey of general sparse matrix-matrix multiplication*](https://doi.org/10.1145/3571157), ACM Computing Surveys（CSUR, **SCI一区**）, Surv. 55, 12, Article 244 (December 2023), 36 pages, doi: 10.1145/3571157
+
+1. Yanjie Jiang, Hui Liu, Yuxia Zhang, **Weixing Ji**, Hao Zhong, Lu Zhang. [*Do bugs lead to unnaturalness of source code?*](https://doi.org/10.1145/3540250.3549149), Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering（ESEC/FSE，**CCF A类**），Association for Computing Machinery, New York, NY, USA, 1085–1096, 2022, do: 10.1145/3540250.3549149
+
+1. Akrem Benatia, **Weixing Ji**\*, Yizhuo Wang, Feng Shi. [*BestSF: A Sparse Meta-Format for Optimizing SpMV on GPU*](https://doi.org/10.1145/3226228), ACM Transactions on Architecture and Code Optimization（TACO， **CCF B类**）, vol. 15, no. 3(29), September 2018, pp. 1-27, doi: 10.1145/3226228
+
+1. Akrem Benatia, **Weixing Ji**, Yizhuo Wang, Feng Shi. [*Sparse Matrix Format Selection with Multiclass SVM for SpMV on GPU*](https://ieeexplore.ieee.org/abstract/document/7573853), The 45th International Conference on Parallel Processing (ICPP, CCF B类), Philadelphia, PA, USA, 2016, pp. 496-505, doi: 10.1109/ICPP.2016.64
