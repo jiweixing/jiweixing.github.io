@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is Prof. Weixing Ji's home on the web!
+------
+This is Prof. Weixing Ji’s home on the web!
 
-I am currently a professor in the School of Computer Science and Technology at the Beijing Institute of Technology (BIT). I received the B.S. and Ph.D. degrees from the School of Computer Science and Technology, the Beijing Institute of Technology, in 2003 and 2008, respectively.
+I am a professor in the School of Computer Science and Technology at the Beijing Institute of Technology (BIT). I received my B.S. and Ph.D. degrees from the School of Computer Science and Technology, the Beijing Institute of Technology, in 2003 and 2008, respectively.
 
-My research interests include computer architecture, parallel and high performance computing, compilation optimization, and code analysis. My work is funded in part by the National Natural Science Foundation of China, and the National Key Research and Development Program of China.
+My research interests include computer architecture, parallel and high-performance computing, compilation optimization, and code analysis. My work is partly funded by the National Natural Science Foundation of China and the National Key Research and Development Program of China.
 
-I am always looking for self-motivated students to work with me. Contact me by eMail if you are interested in my research interests.
+I am always looking for self-motivated students to work with me. Contact me by email if you are interested in my research interests.
 
 ------
 
